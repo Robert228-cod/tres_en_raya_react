@@ -109,6 +109,8 @@ function App() {
 
   return (
     <main className='board'>
+            <h1>:D</h1>
+
       <h1>Turno del jugador: {playersTurn}</h1>
       <section className='game'>
         {
